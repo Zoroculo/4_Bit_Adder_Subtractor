@@ -1,6 +1,4 @@
 -- A DUT entity is used to wrap your design.
---  This example shows how you can do this for the
---  Full-adder.
 
 library ieee;
 use ieee.std_logic_1164.all;
