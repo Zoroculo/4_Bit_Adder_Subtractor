@@ -1,6 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
+--Use the Gates package already uploaded in my previous repository named AND_using_NAND.
 library work;
 use work.Gates.all;
 
